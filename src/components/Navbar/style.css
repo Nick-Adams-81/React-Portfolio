@@ -1,0 +1,15 @@
+.navbar {
+    top: 0;
+    height: 70px;
+    width: 100%;
+    background-color:rgb(65, 87, 255); 
+    position: fixed;
+    z-index: 5;
+
+   
+}
+.navbar-brand {
+    color: snow;
+    outline: springgreen;
+  
+}
