@@ -1,6 +1,10 @@
 .placeholder {
     font-family: serif;
-    font-size: 25px;
-   
-    
+    font-size: 20px;  
+}
+#btn-1 {
+    margin: 0;
+}
+#btn-2 {
+    margin: 0;
 }

@@ -8,11 +8,26 @@
 
    
 }
-.navbar-brand {
-    color: white;
-    font-family: sans-serif;
-    font-size: larger; 
-}
 
+.nav {
+    margin-left: 40px;
+}
+.nav-item {
+  
+    font-family: sans-serif;
+    font-size: large; 
+    float: left;
+}
+#nav-1 {
+    color: whitesmoke;
+    font-size: 30px;
+    margin-left: 15px;
+}
+#nav-2 {
+   color: whitesmoke;
+    font-size: 30px;
+    margin-left: 25px;
+}
+ 
 
 

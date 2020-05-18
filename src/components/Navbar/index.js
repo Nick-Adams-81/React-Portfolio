@@ -1,27 +1,28 @@
 import React from "react";
 //import NavTabs from "../NavTabs"
 import "./style.css";
+import { Link } from "react-router-dom"
 
 
-function Navbar(props) {
+function Navbar() {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-            <button type="button" class="btn btn-primary">
-                   
-                    </button>
-           
-                <button type="button" class="btn btn-primary">
-                    <a className="navbar-brand" href="/">
+            <ul class="nav">
+                <li className="nav-item">
+                    <Link id="nav-1" to="/">
                         Home
-                    </a>
-                    </button>
-                    <br></br>
-                    <button type="button" class="btn btn-primary">
-                    <a className="navbar-brand" href="/Portfolio">
+                </Link>
+                </li>
+               
+                <li className="nav-item">
+                    <Link id="nav-2" to="/portfolio">
                         Portfolio
-                    </a>
-                    </button>
-              
+                </Link>
+                </li>
+                
+            </ul>
+
+
         </nav>
 
 

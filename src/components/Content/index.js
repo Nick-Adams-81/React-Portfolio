@@ -10,7 +10,7 @@ function Content(props) {
             developer. This site was built using React.js, other tech i'm familiar with
             is HTML, CSS, JavaScript, MySQL, MongoDB, express, node.js. If you are
             interested in contacting me my info is in either of the colomns to either side
-            of this content, links to my work are in the navbar
+            of this content, links to my work are in the navbar.
         {props.children}</p>
     )
 }

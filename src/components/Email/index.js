@@ -6,10 +6,16 @@ function Email(props) {
     return (
         <div className="e-mail">
             <p>
-                Email: thebigdeal916@icloud.com
+                Email: 
             </p>
             <p>
-                Phone: (916)996-1799{props.children}
+            thebigdeal916@icloud.com
+            </p>
+            <p>
+                Phone: 
+            </p>
+            <p>
+            (916) 996-1799{props.children} 
             </p>
         </div>
     )

@@ -7,6 +7,7 @@ import Content from "../Content";
 import Images from "../Images";
 import Link from "../Link";
 import Email from "../Email"
+import "./style.css"
 
 
 function Home() {
@@ -15,6 +16,7 @@ function Home() {
     <Wrapper>
       <Navbar />
       <Jumbotron />
+      <h2>Home</h2>
       <div class="container">
         <div class="row">
           <div class="col-sm-4">

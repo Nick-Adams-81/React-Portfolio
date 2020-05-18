@@ -2,7 +2,7 @@ import React from "react"
 import "./style.css"
 
 
-function Link(props) {
+function Link() {
     return (
         <div className="placeholder">
             <img
@@ -13,7 +13,7 @@ function Link(props) {
             <br></br>
           
             
-            <a href="https://www.linkedin.com/in/nick-adams-052093199/" className="btn btn-primary btn-lg active" role="button"
+            <a href="https://www.linkedin.com/in/nick-adams-052093199/" className="btn btn-primary btn-lg active" role="button" id="btn-1"
            aria-pressed="true">Nick's Linkedin</a>
            <br></br>
            <br></br>
@@ -27,7 +27,7 @@ function Link(props) {
             <br></br>
             <br></br>
            
-           <a href="https://github.com/thebigdeal916" className="btn btn-primary btn-lg active" role="button"
+           <a href="https://github.com/thebigdeal916" className="btn btn-primary btn-lg active" role="button" id="btn-2"
            aria-pressed="true">Nick's Github</a>
 
         </div>

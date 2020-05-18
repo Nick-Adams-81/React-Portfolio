@@ -1,8 +1,9 @@
 .e-mail {
-    font-size: large;
+    font-size: 17px;
+    font-family: sans-serif;
     margin-top: 5px;
+    padding-right: 15px;
     float: left;
-    font-weight: bolder;
-    
+    font-weight: bold;
 
 }
