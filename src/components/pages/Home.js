@@ -19,7 +19,7 @@ function Home() {
       <h2>Home</h2>
       <div class="container">
         <div class="row">
-          <div class="col-sm-4">
+          <div class="col-sm-4" id="img">
             <Images />
             <br></br>
             <Email />

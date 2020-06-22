@@ -6,3 +6,7 @@ h2 {
     font-family: sans-serif;
     margin-bottom: 25px;
 }
+
+#img {
+    padding: 0;
+}

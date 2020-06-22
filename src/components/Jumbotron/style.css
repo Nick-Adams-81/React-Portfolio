@@ -18,3 +18,8 @@ h1 {
     top: 45px;
    
 }
+.lead {
+    color: rgb(170, 233, 227);
+    position: relative;
+    padding-left: 28%;
+}

@@ -20,13 +20,20 @@
 }
 #nav-1 {
     color: whitesmoke;
-    font-size: 30px;
-    margin-left: 15px;
+    font-size: 25px;
+    position: relative;
+    
 }
 #nav-2 {
    color: whitesmoke;
-    font-size: 30px;
-    margin-left: 25px;
+    font-size: 25px;
+    margin-left: 15px;
+    position: relative;
+}
+.navbar-brand {
+    margin: 0;
+    padding: 0;
+    
 }
  
 

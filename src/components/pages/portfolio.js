@@ -56,9 +56,27 @@ function Portfolio () {
                           image={projects[2].image}
                           link={projects[2].link}
                           />
-                     
                     </div>
-                   
+                </div>
+                <br></br>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <ProjectCard
+                        id={projects[4].id}
+                        name={projects[4].name}
+                        image={projects[4].image}
+                        link={projects[4].link}
+                        />
+                       
+                    </div>
+                    <div class="col-sm-6">
+                    <ProjectCard
+                        id={projects[5].id}
+                        name={projects[5].name}
+                        image={projects[5].image}
+                        link={projects[5].link}
+                        />
+                    </div>
                 </div>
             </div>
             <Footer />
