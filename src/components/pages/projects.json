@@ -19,7 +19,9 @@
         "id": 3,
         "name": "My Tetris",
         "image": "https://new.myquarterturns.com/wp-content/uploads/2018/09/tetris-300x300.jpg",
-        "link": "https://thebigdeal916.github.io/My-Tetris/"
+        "link": "https://thebigdeal916.github.io/My-Tetris/",
+        "repo": "https://github.com/thebigdeal916/My-Tetris",
+        "repoName":"Repo link"
     },
     {
         "id": 4,
@@ -41,6 +43,8 @@
         "id": 6,
         "name": "Punch Clock",
         "image": "https://static.grainger.com/rp/s/is/image/Grainger/1PB84_AS01?$mdmain$",
-        "link": "https://gentle-springs-48433.herokuapp.com/"
+        "link": "https://gentle-springs-48433.herokuapp.com/",
+        "repo": "https://github.com/thebigdeal916/Project-3",
+        "repoName":"Repo link"
     }
 ]
