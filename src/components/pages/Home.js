@@ -31,6 +31,11 @@ function Home() {
             <Link />
           </div>
         </div>
+        <div class="row">
+          <div class="col-sm-12">
+            <h2>Technical Skills</h2>
+          </div>
+        </div>
       </div>
       <Footer />
     </Wrapper>
