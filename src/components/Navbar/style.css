@@ -21,14 +21,16 @@
 #nav-1 {
     color: whitesmoke;
     font-size: 25px;
-    position: relative;
+    margin-left: 10px;
+   
     
 }
 #nav-2 {
    color: whitesmoke;
     font-size: 25px;
     margin-left: 15px;
-    position: relative;
+   
+ 
 }
 .navbar-brand {
     margin: 0;

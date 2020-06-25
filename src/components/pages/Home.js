@@ -19,30 +19,18 @@ function Home() {
       <h2>Home</h2>
       <div class="container">
         <div class="row">
-          <div class="col-sm-4" id="img">
+          <div class="col-sm" id="img">
             <Images />
             <br></br>
             <Email />
           </div>
-          <div class="col-sm-4">
+          <div class="col">
             <Content />
           </div>
-          <div class="col-sm-4">
+          <div class="col">
             <Link />
           </div>
         </div>
-        <div class="row">
-          <div class="col-sm-4">
-
-          </div>
-          <div class="col-sm-4">
-
-          </div>
-          <div class="col-sm-4">
-
-          </div>
-        </div>
-
       </div>
       <Footer />
     </Wrapper>

@@ -10,6 +10,13 @@ function ProjectCard(props) {
             <br></br>
             <a href={props.link} className="btn btn-primary btn-lg active" role="button"
            aria-pressed="true">{props.name}</a>
+          <br></br>
+          <br></br>
+          <br></br>
+           <a href={props.repo} className="btn2 btn-primary btn-lg active" role="button"
+           aria-pressed="true">{props.repoName}</a>
+         
+          
        </div>
     )
 }

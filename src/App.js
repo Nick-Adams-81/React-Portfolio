@@ -7,13 +7,16 @@ import Navbar from "./components/Navbar"
 
 
 
+
 function App() {
   return (
+    
     <Router>
       <Navbar />
       <Route exact path={["/React-Portfolio", "/"]} component={Home} />
       <Route exact path="/portfolio" component={Portfolio} />
     </Router>
+   
   )
 }
 export default App;

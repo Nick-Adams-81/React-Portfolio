@@ -33,6 +33,8 @@ function Portfolio () {
                           name={projects[0].name}
                           image={projects[0].image}
                           link={projects[0].link}
+                          repo={projects[0].repo}
+                          repoName={projects[0].repoName}
                           />
                      
                     </div>
@@ -46,6 +48,7 @@ function Portfolio () {
                         name={projects[1].name}
                         image={projects[1].image}
                         link={projects[1].link}
+                        repo={projects[1].repo}
                         />
                        
                     </div>

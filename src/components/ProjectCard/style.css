@@ -1,7 +1,13 @@
 .img-container {
    margin-left: 70px;
 
+
 }
 .btn {
-    margin-left: 140px;
+    margin-left: 80px;
+    float: left;
+}
+.btn2{
+    margin-left: 80px;
+    padding-top: 10px;
 }

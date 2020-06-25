@@ -3,7 +3,9 @@
         "id": 1,
         "name": "Nirvana Fansite",
         "image":"https://dtgcustomtees.com/wp-content/uploads/2019/01/Nirvana-Smiley-Face-T-shirt-Unisex-Display-300x300.jpg",
-        "link":"https://thebigdeal916.github.io/holiday-work/"           
+        "link":"https://thebigdeal916.github.io/holiday-work/" ,
+        "repo": "https://github.com/thebigdeal916/holiday-work",
+        "repoName": "Repo link"          
     },
     {
         "id": 2,
