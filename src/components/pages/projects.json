@@ -11,7 +11,9 @@
         "id": 2,
         "name": "Foul-mouth gambler",
         "image": "https://blog.hubspot.com/hs-fs/hub/53/file-1523362996-jpg/blog-files/gaming-300x300.jpg",
-        "link": "https://thebigdeal916.github.io/Casino-game/"
+        "link": "https://thebigdeal916.github.io/Casino-game/",
+        "repo": "https://github.com/thebigdeal916/Casino-game",
+        "repoName": "Repo link"
     },
     {
         "id": 3,
@@ -23,7 +25,9 @@
         "id": 4,
         "name": "JS Scheduler",
         "image":"https://store-images.s-microsoft.com/image/apps.26335.13510798882842434.e12ceebe-2245-4a26-9580-8f9ae1f8b2fe.0f1e78e1-3c86-4d48-af52-c58bb82ae11e?mode=scale&q=90&h=300&w=300",
-        "link": "https://whispering-fjord-97203.herokuapp.com/"
+        "link": "https://whispering-fjord-97203.herokuapp.com/",
+        "repo": "https://github.com/thebigdeal916/project-2",
+        "repoName": "Repo link"
     },
     {
         "id": 5,
