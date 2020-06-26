@@ -5,15 +5,15 @@
         "image":"https://dtgcustomtees.com/wp-content/uploads/2019/01/Nirvana-Smiley-Face-T-shirt-Unisex-Display-300x300.jpg",
         "link":"https://thebigdeal916.github.io/holiday-work/" ,
         "repo": "https://github.com/thebigdeal916/holiday-work",
-        "repoName": "Repo link"          
+        "repoName": "Nirvana Repo"          
     },
     {
         "id": 2,
-        "name": "Foul-mouth gambler",
+        "name": "The Gambler",
         "image": "https://blog.hubspot.com/hs-fs/hub/53/file-1523362996-jpg/blog-files/gaming-300x300.jpg",
         "link": "https://thebigdeal916.github.io/Casino-game/",
         "repo": "https://github.com/thebigdeal916/Casino-game",
-        "repoName": "Repo link"
+        "repoName": "Gambler Repo"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "image": "https://new.myquarterturns.com/wp-content/uploads/2018/09/tetris-300x300.jpg",
         "link": "https://thebigdeal916.github.io/My-Tetris/",
         "repo": "https://github.com/thebigdeal916/My-Tetris",
-        "repoName":"Repo link"
+        "repoName":"Tetris Repo"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "image":"https://store-images.s-microsoft.com/image/apps.26335.13510798882842434.e12ceebe-2245-4a26-9580-8f9ae1f8b2fe.0f1e78e1-3c86-4d48-af52-c58bb82ae11e?mode=scale&q=90&h=300&w=300",
         "link": "https://whispering-fjord-97203.herokuapp.com/",
         "repo": "https://github.com/thebigdeal916/project-2",
-        "repoName": "Repo link"
+        "repoName": "JS Repo"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "image": "https://www.skilljar.com/wp-content/uploads/2019/10/elearning-create-online-quiz-300x300.jpg",
         "link": "https://thebigdeal916.github.io/quiz-app/",
         "repo": "https://github.com/thebigdeal916/quiz-app",
-        "repoName":"Repo link"
+        "repoName":"Quiz Repo"
     },
     {
         "id": 6,
@@ -45,6 +45,6 @@
         "image": "https://static.grainger.com/rp/s/is/image/Grainger/1PB84_AS01?$mdmain$",
         "link": "https://gentle-springs-48433.herokuapp.com/",
         "repo": "https://github.com/thebigdeal916/Project-3",
-        "repoName":"Repo link"
+        "repoName":"Clock Repo"
     }
 ]

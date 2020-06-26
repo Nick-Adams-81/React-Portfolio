@@ -13,7 +13,7 @@ function ProjectCard(props) {
           <br></br>
           <br></br>
           <br></br>
-           <a href={props.repo} className="btn2 btn-primary btn-lg active" role="button"
+           <a href={props.repo} className="btn2 btn-warning btn-lg active" role="button"
            aria-pressed="true">{props.repoName}</a>
          
           
