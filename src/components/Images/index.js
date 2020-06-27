@@ -3,10 +3,10 @@ import "./style.css";
 
 function Image() {
     return (
-    <div className="img">
-       <img src="./styx.jpg" className="styx"> 
-       </img>
-    </div>  
+        <div className="img">
+            <img src="./styx.jpg" className="styx">
+            </img>
+        </div>
     )
 }
 

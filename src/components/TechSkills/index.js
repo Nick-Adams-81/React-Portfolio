@@ -2,7 +2,7 @@ import React from 'react';
 import './style.css';
 
 
-function TechSkills () {
+function TechSkills() {
     return (
         <div class="container">
             <ul>
