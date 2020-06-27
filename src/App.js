@@ -10,12 +10,12 @@ import Portfolio from "./components/pages/portfolio";
 
 function App() {
   return (
-    
+
     <Router>
       <Route exact path={["/React-Portfolio", "/"]} component={Home} />
       <Route exact path="/portfolio" component={Portfolio} />
     </Router>
-   
+
   )
 }
 export default App;
