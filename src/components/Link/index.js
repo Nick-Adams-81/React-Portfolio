@@ -14,7 +14,7 @@ function Link() {
           
             
             <a href="https://www.linkedin.com/in/nick-adams-052093199/" className="btn btn-primary btn-lg active" role="button" id="btn-1"
-           aria-pressed="true">Nick's Linkedin</a>
+           aria-pressed="true">My Linkedin</a>
            <br></br>
            <br></br>
            
@@ -28,7 +28,7 @@ function Link() {
             <br></br>
            
            <a href="https://github.com/thebigdeal916" className="btn btn-primary btn-lg active" role="button" id="btn-2"
-           aria-pressed="true">Nick's Github</a>
+           aria-pressed="true">My Github</a>
 
         </div>
 
