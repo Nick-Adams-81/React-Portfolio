@@ -12,8 +12,10 @@ function App() {
   return (
 
     <Router>
+      <div>
       <Route exact path={["/React-Portfolio", "/"]} component={Home} />
       <Route exact path="/portfolio" component={Portfolio} />
+      </div>
     </Router>
 
   )
