@@ -12,7 +12,7 @@ function Navbar() {
                     alt="Responsive image" height="30" width="30"></img></a>
                 <ul class="nav">
                     <li className="nav-item">
-                        <Link id="nav-1" to="/React-Portfolio">
+                        <Link id="nav-1" to="/">
                             Home
                         </Link>
                     </li>

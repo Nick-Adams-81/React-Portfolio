@@ -11,7 +11,7 @@ function Jumbotron(props) {
                     </br>
                     <br>
                     </br>
-                    https://thebigdeal916.github.io/React-Portfolio/
+                    https://thebigdeal916.github.io//
                     <br>
                     </br>
                 </p>

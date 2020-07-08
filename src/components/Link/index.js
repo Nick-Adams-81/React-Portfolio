@@ -7,7 +7,7 @@ function Link() {
         <div className="placeholder">
             <img
                 src={require("./linkedin.png")}
-                alt="Responsive image">
+                alt="Responsive img">
             </img>
             <br></br>
             <br></br>
@@ -20,7 +20,7 @@ function Link() {
 
             <img
                 src={require("./github.jpg")}
-                alt="Responsive image">
+                alt="Responsive img">
             </img>
             <br></br>
             <br></br>

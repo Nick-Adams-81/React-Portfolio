@@ -5,7 +5,7 @@ function ProjectCard(props) {
     return (
         <div>
             <div className="img-container">
-                <img src={props.image} />
+                <img src={props.image} alt="something"/>
             </div>
             <br></br>
             <a href={props.link} className="btn btn-primary btn-lg active" role="button"
